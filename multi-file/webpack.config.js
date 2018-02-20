@@ -5,7 +5,7 @@ module.exports = {
     compress: true,
     // hot: true,
     https: true,
-    port: 9000
+    port: 9001
   },
   entry: './src/index.jsx',
   output: {
